@@ -1,0 +1,45 @@
+{
+  "n_postings": 17880,
+  "fraud_rate": 0.0484,
+  "exp1_cv_pr_auc": {
+    "meta": 0.446,
+    "text": 0.876,
+    "combined": 0.86
+  },
+  "exp1_test_pr_auc": {
+    "meta": 0.435,
+    "text": 0.926,
+    "combined": 0.922
+  },
+  "best_model": "Linear SVM",
+  "best_model_params": {
+    "C": "1",
+    "class_weight": "None"
+  },
+  "best_model_test": {
+    "PR-AUC": 0.972,
+    "ROC-AUC": 0.993,
+    "Recall@5%": 0.931,
+    "Precision@5%": 0.899
+  },
+  "baseline_lr_test_pr_auc": 0.964,
+  "review_budget": {
+    "1%": 0.208,
+    "2%": 0.416,
+    "5%": 0.931,
+    "10%": 0.988,
+    "20%": 0.994
+  },
+  "top_fraud_signals": [
+    "link urltoken",
+    "accion",
+    "using link",
+    "line requirements",
+    "money",
+    "apply using",
+    "accion story",
+    "earn",
+    "link",
+    "aptitude staffing"
+  ]
+}

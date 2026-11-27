@@ -1,0 +1,19 @@
+,dtype,pct_missing,n_unique,example
+job_id,int64,0.0,17880,1
+title,str,0.0,11231,Marketing Intern
+location,str,1.9,3105,"US, NY, New York"
+department,str,64.6,1337,Marketing
+salary_range,str,84.0,874,20000-28000
+company_profile,str,18.5,1709,"We're Food52, and we've created a groundbreaking and award-w"
+description,str,0.0,14801,"Food52, a fast-growing, James Beard Award-winning online foo"
+requirements,str,15.1,11967,Experience with content management systems a major plus (any
+benefits,str,40.3,6204,What you will get from usThrough being part of the 90 Second
+telecommuting,int64,0.0,2,0
+has_company_logo,int64,0.0,2,1
+has_questions,int64,0.0,2,0
+employment_type,str,19.4,5,Other
+required_experience,str,39.4,7,Internship
+required_education,str,45.3,13,Bachelor's Degree
+industry,str,27.4,131,Marketing and Advertising
+function,str,36.1,37,Marketing
+fraudulent,int64,0.0,2,0
