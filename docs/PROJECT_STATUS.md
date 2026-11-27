@@ -8,6 +8,7 @@ Course brief: "Social Media Management for Retail": apply text / image / network
 Our topic (approved proposal): **Detecting Fraudulent Job Postings Using Text Analytics**.
 
 **Five required deliverables**
+
 1. Data file(s) + short data description (variables, source, sample size, cleaning)
 2. Prompt log: every AI prompt, a summary of its output, and how it contributed
 3. Code notebook (.ipynb/.py): sections for import, preprocessing, analysis, visualization, interpretation
